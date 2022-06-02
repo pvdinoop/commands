@@ -2,3 +2,4 @@
 git clone
 git push
 git status
+git add -A
