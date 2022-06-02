@@ -1,3 +1,4 @@
  git int
 git clone
 git push
+git status
